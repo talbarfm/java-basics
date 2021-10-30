@@ -8,6 +8,7 @@ A video explaining the importance of conventions for working in a team. Please w
 https://www.youtube.com/watch?v=bdX8TSoNEfI
 
 The conventions we will be following in this course:
+
 https://google.github.io/styleguide/javaguide.html#s3.4-class-declaration
 
 We will pay close attention to the quality of your code, so keep it clean and understandable.
