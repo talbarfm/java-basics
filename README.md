@@ -4,12 +4,13 @@ Java exercises to refresh you java skills.
 ------------------------------------------------------------------------------------------------------------------------
 In this exercise, pay attention to writing with proper java conventions.
 A video explaining the importance of conventions for working in a team. Please watch it:
+
 https://www.youtube.com/watch?v=bdX8TSoNEfI
 
 The conventions we will be following in this course:
 https://google.github.io/styleguide/javaguide.html#s3.4-class-declaration
 
-Also, we will pay close attention to the quality of your code, so keep it clean and understandable.
+We will pay close attention to the quality of your code, so keep it clean and understandable.
 ------------------------------------------------------------------------------------------------------------------------
 
 In these exercises, open a new branch and pull request for each answer as described in this link - 
