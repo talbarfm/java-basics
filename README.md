@@ -27,7 +27,7 @@ b. Use four System.out.print statements.
 c. Use one System. out. printf statement
 
 
-2.Write an application that asks the user to enter two integers, obtains them from the user and prints their sum,
+2. Write an application that asks the user to enter two integers, obtains them from the user and prints their sum,
 product, difference and quotient (division).  
 
 
@@ -36,7 +36,7 @@ typing in ‐1. Your main method should call an Average method that returns the 
 DecimalFormat class to format the average to 2 decimal places.
 
 
-4.Create a class called Invoice that a hardware store might use to represent an invoice for an item sold at the store.
+4. Create a class called Invoice that a hardware store might use to represent an invoice for an item sold at the store.
 An Invoice should include four pieces of information as instance variables‐a part number(type String),a part
 description(type String),a quantity of the item being purchased (type int) and a price per item  (double). Your
 class should have a constructor that initializes the four instance variables. Provide a set and a get method for
@@ -46,7 +46,7 @@ quantity is not positive, it should be set to 0. If the price per item is not po
 test application named InvoiceTest that demonstrates class Invoice’s capabilities.
 
 
-5.Create class SavingsAccount. Usea static variable annualInterestRate to store the annual interest rate for all
+5. Create class SavingsAccount. Usea static variable annualInterestRate to store the annual interest rate for all
 account holders. Each object of the class contains a private instance variable savingsBalance indicating the
 amount the saver currently has ondeposit. The class contains two constructor methods - one that initializes  Provide method calculateMonthlyInterest to calculate the monthly
 interest by multiplying the savingsBalance by annualInterestRate divided by 12 this interest should be added to
@@ -57,31 +57,31 @@ interest and print the new balances for both savers. Then set the annualInterest
 month’s interest and print the new balances for both savers.
 
 
-6.Create class counter that counts the number of objects that were created from it. Demonstrate test its abilities in a test class. 
+6. Create class counter that counts the number of objects that were created from it. Demonstrate test its abilities in a test class. 
 
 
-7.a. Create a super class called Car. The Car class has the following fields and methods.
+7. a. Create a super class called Car. The Car class has the following fields and methods.
 ◦intspeed;
 ◦doubleregularPrice;
 ◦Stringcolor;
 ◦doublegetSalePrice();
 
-b. Create a sub class of Car class and name it as Truck. The Truck class has the following fields and methods.
+ b. Create a sub class of Car class and name it as Truck. The Truck class has the following fields and methods.
 ◦intweight;
 ◦doublegetSalePrice();//Ifweight>2000,10%discount.Otherwise,20%discount.
 
-c. Create a subclass of Car class and name it as Ford. The Ford class has the following fields and methods
+ c. Create a subclass of Car class and name it as Ford. The Ford class has the following fields and methods
 ◦intyear;
 ◦intmanufacturerDiscount;
 ◦doublegetSalePrice();//FromthesalepricecomputedfromCarclass,subtractthemanufacturerDiscount.
 
 
-d. Create a subclass of Car class and name it as Sedan. The Sedan class has the following fields and methods.
+ d. Create a subclass of Car class and name it as Sedan. The Sedan class has the following fields and methods.
 ◦intlength;
 ◦doublegetSalePrice();//Iflength>20feet,5%discount,Otherwise,10%discount.
 
 
-e. Create MyOwnAutoShop class which contains the main() method. Perform the following within the main()
+ e. Create MyOwnAutoShop class which contains the main() method. Perform the following within the main()
 method.
 ◦Create an instance of Sedan class and initialize all the fields with appropriate values. Use super(...) method in
 the constructor for initializing the fields of the superclass.
